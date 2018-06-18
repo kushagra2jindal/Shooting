@@ -3,7 +3,6 @@ package com.example.kushagrajindal.shooting;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.util.Log;
 
 /**
  * Created by kushagrajindal on 30/06/17.
